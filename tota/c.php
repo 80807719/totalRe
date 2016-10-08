@@ -13,5 +13,8 @@ namespace tota;
 
 class c
 {
-
+    function c()
+    {
+        echo 'this is c';
+    }
 }

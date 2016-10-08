@@ -15,6 +15,6 @@ class c
 {
     function c()
     {
-        echo 'this is c';
+        echo 'this is ccccc';
     }
 }
